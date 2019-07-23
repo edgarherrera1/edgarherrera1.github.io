@@ -1,0 +1,19 @@
+/* main.css */
+
+body {
+		background: grey;
+}
+
+h1 {
+	color:white;
+}
+
+ol{
+	color:cyan;
+	font-weight:bold;
+}
+a {
+	color:Cyan;
+}
+#nav {border-style: solid; }
+
