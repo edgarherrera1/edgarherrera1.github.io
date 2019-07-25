@@ -16,4 +16,19 @@ a {
 	color:Cyan;
 }
 #nav {border-style: solid; }
+#img-float{
+	float: left;
+	margin:20px;
+	width:175px;
+}
+
+.p-class{
+	margin: 35px;
+	padding:25px;
+}
+
+#div-float{
+	border:solid 5px green;
+	background-color: lightblue;}
+
 
